@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 public class ArithmeticDemo {
     public static void main(String[] args) {
 int num1 = 10;
@@ -19,6 +18,4 @@ System.out.println("Expression Result: " + expressionResult); // Explain order o
 
     }
 }
-=======
 
->>>>>>> e19a2c2164ea505fe21554ec56afa482a2015901
